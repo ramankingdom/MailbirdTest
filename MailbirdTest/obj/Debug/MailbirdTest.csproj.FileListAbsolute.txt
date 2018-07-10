@@ -1,0 +1,14 @@
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\bin\Debug\MailbirdTest.exe.config
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\bin\Debug\MailbirdTest.exe
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\bin\Debug\MailbirdTest.pdb
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\MailbirdTest.csprojResolveAssemblyReference.cache
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\MainWindow.g.cs
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\App.g.cs
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\MailbirdTest_MarkupCompile.cache
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\MailbirdTest_MarkupCompile.lref
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\MainWindow.baml
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\MailbirdTest.g.resources
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\MailbirdTest.Properties.Resources.resources
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\MailbirdTest.csproj.GenerateResource.Cache
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\MailbirdTest.exe
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTest\obj\Debug\MailbirdTest.pdb

@@ -1,0 +1,12 @@
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\bin\Debug\MailbirdTestingConsole.exe.config
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\bin\Debug\MailbirdTestingConsole.exe
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\bin\Debug\MailbirdTestingConsole.pdb
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\bin\Debug\Mail.dll
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\bin\Debug\Mailbird.Common.dll
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\bin\Debug\Mailbird.Core.dll
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\bin\Debug\Mailbird.Common.pdb
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\bin\Debug\Mailbird.Core.pdb
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\bin\Debug\Mail.xml
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\obj\Debug\MailbirdTestingConsole.csprojResolveAssemblyReference.cache
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\obj\Debug\MailbirdTestingConsole.exe
+C:\Projects\MailbirdTest\MailbirdTest\MailbirdTestingConsole\obj\Debug\MailbirdTestingConsole.pdb

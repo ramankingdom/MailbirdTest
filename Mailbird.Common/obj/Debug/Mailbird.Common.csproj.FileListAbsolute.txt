@@ -1,0 +1,4 @@
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Common\bin\Debug\Mailbird.Common.dll
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Common\bin\Debug\Mailbird.Common.pdb
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Common\obj\Debug\Mailbird.Common.dll
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Common\obj\Debug\Mailbird.Common.pdb

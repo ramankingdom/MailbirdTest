@@ -1,0 +1,9 @@
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Core\bin\Debug\Mailbird.Core.dll
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Core\bin\Debug\Mailbird.Core.pdb
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Core\bin\Debug\Mail.dll
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Core\bin\Debug\Mailbird.Common.dll
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Core\bin\Debug\Mailbird.Common.pdb
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Core\bin\Debug\Mail.xml
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Core\obj\Debug\Mailbird.Core.csprojResolveAssemblyReference.cache
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Core\obj\Debug\Mailbird.Core.dll
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Core\obj\Debug\Mailbird.Core.pdb

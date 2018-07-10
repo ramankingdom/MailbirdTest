@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailbirdTest", "MailbirdTest\MailbirdTest.csproj", "{9960673C-60E5-4799-B40B-E56643F83BA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mailbird.Common", "Mailbird.Common\Mailbird.Common.csproj", "{4CCB0899-0936-4E6C-AC51-8287BA1F5379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mailbird.Core", "Mailbird.Core\Mailbird.Core.csproj", "{F5A835B7-F1B5-448A-A0D5-562F8791A779}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{9C62F700-7374-489F-992E-9428A940B6D6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Mailbird\MailProxy\MailProxy\bin\Debug\Mail.dll = ..\..\Mailbird\MailProxy\MailProxy\bin\Debug\Mail.dll
+		..\..\Mailbird\MailProxy\MailProxy\bin\Debug\Mail.xml = ..\..\Mailbird\MailProxy\MailProxy\bin\Debug\Mail.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailbirdTestingConsole", "MailbirdTestingConsole\MailbirdTestingConsole.csproj", "{55CFA3EA-036B-49A9-94BA-8CD28669B798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9960673C-60E5-4799-B40B-E56643F83BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9960673C-60E5-4799-B40B-E56643F83BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9960673C-60E5-4799-B40B-E56643F83BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9960673C-60E5-4799-B40B-E56643F83BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCB0899-0936-4E6C-AC51-8287BA1F5379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCB0899-0936-4E6C-AC51-8287BA1F5379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCB0899-0936-4E6C-AC51-8287BA1F5379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCB0899-0936-4E6C-AC51-8287BA1F5379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A835B7-F1B5-448A-A0D5-562F8791A779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A835B7-F1B5-448A-A0D5-562F8791A779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A835B7-F1B5-448A-A0D5-562F8791A779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A835B7-F1B5-448A-A0D5-562F8791A779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CFA3EA-036B-49A9-94BA-8CD28669B798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CFA3EA-036B-49A9-94BA-8CD28669B798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CFA3EA-036B-49A9-94BA-8CD28669B798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CFA3EA-036B-49A9-94BA-8CD28669B798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
