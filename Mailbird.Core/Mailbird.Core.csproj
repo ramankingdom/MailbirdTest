@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MailConnectionManager.cs" />
+    <Compile Include="MailDownloader.cs" />
     <Compile Include="MailProxy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
